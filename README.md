@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahadKhan
 - 👀 I’m interested in font-end web development
-- 🌱 I’m currently learning mastering javascript
+- 🌱 I’m currently learning mastering React.js
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
