@@ -1,24 +1,35 @@
-# 👋 Hi, I’m [@fahadKhan](https://github.com/fahadKhan)
+# 👋 Hello, I'm Fahad khan
 
-## 👀 About Me:
-- Passionate about **front-end web development** and creating **interactive user experiences**.  
-- Currently focused on **mastering React.js** to build dynamic and efficient applications.  
-- Always looking to **collaborate on exciting web development projects** that challenge my skills and foster growth.  
+---
 
-## 🌱 What I'm Learning:
-- **React.js**  
-- **JavaScript**  
-- **Web Development**  
+### 🌟 About Me
+I'm a **Front-End Developer** who loves to create interactive user experiences. Currently, I'm diving deep into **React.js** to build dynamic and efficient applications.  
+My passion for **freelancing** drives me to always seek new opportunities to challenge myself and grow.
 
-## 💞️ Collaboration:
-- Open to collaborating on **web development projects**. Let's create something amazing together!  
-- **Feel free to reach out via GitHub or connect with me on social media!**  
+---
 
-## 📫 Reach Me:
-- [GitHub Profile](https://github.com/fahadKhan)  
-- **Social Media:** (Add links here)  
+### 🔥 What I'm Focused On
+- **Mastering React.js**  
+- Enhancing my **JavaScript** skills  
+- Developing **dynamic web applications**  
+- **Freelancing** and taking on exciting projects
 
-## 😄 Pronouns: **He/Him**
+---
 
-## ⚡ Fun Fact:
-- I love **learning new technologies** and enjoy solving **coding challenges** in my spare time!  
+### 🤝 Let's Collaborate!
+I am open to working on web development projects that foster learning and growth. If you have an interesting project, feel free to reach out!
+
+---
+
+### 📫 How to Reach Me:
+- **GitHub:** [fahadKhan](https://github.com/fahadKhan)  
+- **X (formerly Twitter):** [@fahdkhn30](https://x.com/fahdkhn30)  
+
+---
+
+### 🧑‍💻 Fun Fact:
+I love **learning new technologies** and solving **coding challenges** in my spare time!  
+
+---
+
+### 🏷️ Pronouns: **He/Him**
