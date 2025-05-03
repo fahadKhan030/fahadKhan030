@@ -21,7 +21,7 @@ I am open to working on web development projects that foster learning and growth
 
 ---
 ### 📫 How to Reach Me:
-- **GitHub:** [fahadKhan](https://github.com/fahadKhan)  
+- **GitHub:** [fahadKhan](https://github.com/fahadKhan030)  
 - **X (formerly Twitter):** [@fahdkhn30](https://x.com/fahdkhn30)  
 
 ---
