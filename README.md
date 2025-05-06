@@ -2,8 +2,6 @@
 
 ---
 
-<img src="" width="100%" alt="Banner" />
-
 I'm a **Front-End Developer** who’s passionate about crafting interactive web experiences and building real-world projects with technologies like **React.js**, **JavaScript**, and **Tailwind CSS**.
 
 Currently, I'm focused on learning and building exciting projects that improve my skills and contribute to the developer community. My journey into tech started with curiosity, and now I'm on a mission to grow as a **freelance developer** 🚀.
@@ -23,7 +21,7 @@ Currently, I'm focused on learning and building exciting projects that improve m
 
 - 🖥 Portfolio: 🚧 Under Construction.
 - 🐱 GitHub: [@fahadKhan030](https://github.com/fahadKhan030)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/fahad-khan-33abb7272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+- 💼 LinkedIn: [Fahad khan](https://www.linkedin.com/in/fahad-khan-33abb7272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 - 📧 Gmail: [fahdkhn30@gmail.com](mailto:fahdkhn30@gmail.com)
 ---
 
