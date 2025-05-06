@@ -15,7 +15,7 @@ Currently, I'm focused on learning and building exciting projects that improve m
 - 🔹 HTML, CSS, JavaScript (ES6+)
 - 🔹 Tailwind CSS
 - 🔹 React.js
-- 🔹GSAP
+- 🔹 GSAP
 
 ---
 
