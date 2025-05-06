@@ -24,6 +24,7 @@ Currently, I'm focused on learning and building exciting projects that improve m
 - 🖥 Portfolio: 🚧 Under Construction.
 - 🐱 GitHub: [@fahadKhan030](https://github.com/fahadKhan030)
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/fahad-khan-33abb7272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+- 📧 Gmail: [fahdkhn30@gmail.com](mailto:fahdkhn30@gmail.com)
 ---
 
 > “Never stop learning, because life never stops teaching.” 
