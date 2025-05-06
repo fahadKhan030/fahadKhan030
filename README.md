@@ -15,19 +15,15 @@ Currently, I'm focused on learning and building exciting projects that improve m
 - 🔹 HTML, CSS, JavaScript (ES6+)
 - 🔹 Tailwind CSS
 - 🔹 React.js
-- 🔹 Git & GitHub
-- 🔹 APIs (RESTful)
+- 🔹GSAP
 
 ---
 
 ### 📫 Connect With Me
 
-- 🖥 Portfolio: [Your Portfolio Link](https://your-portfolio.com)
+- 🖥 Portfolio: 🚧 Under Construction.
 - 🐱 GitHub: [@fahadKhan030](https://github.com/fahadKhan030)
-- 🎥 Learning in public on YouTube: [Your Channel](https://youtube.com/)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🛠 CodePen: [Your CodePen](https://codepen.io/yourusername)
-
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/fahad-khan-33abb7272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 ---
 
-> “Never stop learning, because life never stops teaching.” – Unknown
+> “Never stop learning, because life never stops teaching.” w
