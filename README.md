@@ -19,7 +19,7 @@ Currently, I'm focused on learning and building exciting projects that improve m
 
 ### 📫 Connect With Me
 
-- 🖥 Portfolio: 🚧 Under Construction.
+- 🖥 Portfolio:[fahad.codes](https://www.fahad.codes/).
 - 🐱 GitHub: [@fahadKhan030](https://github.com/fahadKhan030)
 - 💼 LinkedIn: [Fahad khan](https://www.linkedin.com/in/fahad-khan-33abb7272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 - 📧 Gmail: [fahdkhn30@gmail.com](mailto:fahdkhn30@gmail.com)
