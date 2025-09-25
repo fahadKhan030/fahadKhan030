@@ -2,9 +2,14 @@
 
 ---
 
-I'm a **Front-End Developer** who’s passionate about crafting interactive web experiences and building real-world projects with technologies like **React.js**, **JavaScript**, and **Tailwind CSS**.
+👋 Hi, I’m Fahad Khan — a Frontend Developer dedicated to crafting clean, user-friendly, and scalable digital experiences.  
 
-Currently, I'm focused on learning and building exciting projects that improve my skills and contribute to the developer community. My journey into tech started with curiosity, and now I'm on a mission to grow as a **freelance developer** 🚀.
+💻 Skilled in **HTML, CSS, JavaScript, and React.js**, I build responsive web applications that transform ideas into reality and deliver measurable results.  
+
+🚀 Freelancing since 2023, I help businesses and individuals design modern websites that strengthen their online presence, improve usability, and drive growth.  
+
+🌍 Based in Pakistan | Working remotely | Always learning & building
+
 
 ---
 
